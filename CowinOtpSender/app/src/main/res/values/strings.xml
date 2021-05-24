@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cowin Otp</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">URL Info</string>
+    <string name="service_header">Sms Service</string>
+
+    <!-- Messages Preferences -->
+    <string name="url_title">Your URL</string>
+    <string name="service_title">Enable Service</string>
+
+</resources>
